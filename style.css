@@ -1,5 +1,5 @@
 body {
-    background-color: #E0D3AF;
+    background-color: #f0efe7;
 }
 h1 {
     font-family: 'Montserrat', sans-serif;
@@ -12,6 +12,7 @@ p {
     color: #0388a6;
 }
 .container {
+    margin-top: 10%;
     width: 50%;
     margin-left: auto;
     margin-right: auto;
